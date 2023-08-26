@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/draggable-object/static/css/main.5e0de20c.css",
+    "main.js": "/draggable-object/static/js/main.aa6a2a2e.js",
+    "static/media/image.jpg": "/draggable-object/static/media/image.651fa87e1c8ff4e28fb1.jpg",
+    "index.html": "/draggable-object/index.html",
+    "main.5e0de20c.css.map": "/draggable-object/static/css/main.5e0de20c.css.map",
+    "main.aa6a2a2e.js.map": "/draggable-object/static/js/main.aa6a2a2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e0de20c.css",
+    "static/js/main.aa6a2a2e.js"
+  ]
+}
