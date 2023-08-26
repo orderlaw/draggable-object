@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route exact path='/' Component={Main} />
+        <Route exact path='/simple-animations-framer' Component={Main} />
       </Routes>
     </Router>
   );
