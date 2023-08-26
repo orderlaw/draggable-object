@@ -1,0 +1,26 @@
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.mid_container {
+	width: 35%;
+	height: 50vh;
+	margin: auto;
+	background: rgb(154, 90, 175);
+	border-radius: 45px;
+	border: 5px solid rgb(0, 0, 0);
+    overflow: hidden;
+}
+
+.mid_container img {
+	width: 10pc;
+	height: 10pc;
+	border-radius: 50%;
+	border: solid rgb(0, 0, 0);
+	display: block;
+	margin: auto;
+	margin-top: 5.8pc;
+	cursor: grab;
+}
